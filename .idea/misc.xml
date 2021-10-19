@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/uniontech/AndroidStudioProjects/NewCoolWeather/app/src/main/res/layout/activity_main.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/uniontech/AndroidStudioProjects/NewCoolWeather/app/src/main/res/layout/activity_weather.xml" value="0.18655549765502866" />
+        <entry key="..\:/Users/uniontech/AndroidStudioProjects/NewCoolWeather/app/src/main/res/layout/aqi.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/uniontech/AndroidStudioProjects/NewCoolWeather/app/src/main/res/layout/choose_area.xml" value="0.22192028985507245" />
+        <entry key="..\:/Users/uniontech/AndroidStudioProjects/NewCoolWeather/app/src/main/res/layout/title.xml" value="0.18645833333333334" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
