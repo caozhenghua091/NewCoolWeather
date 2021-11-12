@@ -189,7 +189,7 @@ public class WeatherActivity extends AppCompatActivity {
         forecastLayout.removeAllViews();
 
         //定时服务
-        if (weather != null && "ok".equals(weather.status)){
+        if ("ok".equals(weather.status)){
             for (Forecast forecast : weather.forecastList) {
                 View view = LayoutInflater.from(this).inflate(R.layout.forecast_item,forecastLayout,false);
                 TextView dateText = (TextView) view.findViewById(R.id.date_text);
